@@ -2,5 +2,8 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 This is another line of text.
 And even more text.
 Even more text to Alice.
+<<<<<<< Updated upstream
 Simulating remote change.
+=======
+>>>>>>> Stashed changes
 This is a local change.
